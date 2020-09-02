@@ -1,19 +1,24 @@
-
 {
-  "name": "react-native-app-upgrade-core",
-  "version": "1.0.6",
-  "description": "React Native硬升级",
+  "name": "@manyox/upgrade-app",
+  "version": "1.1.0",
+  "description": "upgrade",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "react-native",
-    "upgrade"
   ],
   "author": "DarklyCoder",
   "license": "MIT",
   "peerDependencies": {
     "react-native": "^0.59"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangdongfarmer/RN-AppUpgrade.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DarklyCoder/RN-AppUpgrade/issues"
+  },
+  "homepage": "https://github.com/DarklyCoder/RN-AppUpgrade#readme"
 }
