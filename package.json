@@ -1,6 +1,6 @@
 {
   "name": "@manyox/upgrade-app",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "upgrade",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
   "author": "DarklyCoder",
   "license": "MIT",
   "peerDependencies": {
-    "react-native": "^0.59"
+    "react-native": "^0.60"
   },
   "repository": {
     "type": "git",
